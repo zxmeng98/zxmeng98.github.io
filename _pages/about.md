@@ -65,7 +65,8 @@ Publications
 <p style="font-size: 16px;">
   <b>Lucid: A non-intrusive, scalable and interpretable scheduler for deep learning training jobs</b><br>
   Qinghao Hu<sup>*</sup>, <b>Meng Zhang</b><sup>*</sup>, Peng Sun, Yonggang Wen, and Tianwei Zhang<br>
-  <i>Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS</b>), 2023</i> &nbsp;<em class="blue"><b>Distinguished Paper Award</b></em><br>
+  <i>Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS</b>), 2023</i> <br>
+  <em class="blue"><b style="color: red;">Distinguished Paper Award</b></em><br>
   <a href="https://dl.acm.org/doi/pdf/10.1145/3575693.3575705" target="_blank" style="text-decoration: none;">[Paper]</a>
   <a href="https://github.com/S-Lab-System-Group/Lucid" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
@@ -90,25 +91,23 @@ Preprint
 
 Experiences
 ======
-<!-- <img src="../images/shailab.png" alt="sh ai lab" width="144">
-<p style="font-size: 16px;">
-  <b>Research Intern</b> | Shanghai AI Lab<br>
-  Jun 2023 - present
-</p> -->
-
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="../images/shailab.png" alt="sh ai lab" width="144" style="margin-right: 40px;">
   <p style="font-size: 16px; margin: 0;">
-    <b>Research Intern</b> | Shanghai AI Lab<br>
+    <b>System Research Intern</b> | Shanghai AI Lab<br>
     Jun 2023 - present
   </p>
 </div>
-<!-- <img src="../images/Tencent.png" alt="sh ai lab" width="144">
-<p style="font-size: 16px;">
-  <b>Research Intern</b> | Shanghai AI Lab<br>
-  Jun 2023 - present
-</p> -->
 
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="../images/Tencent.png" alt="sh ai lab" width="144" style="margin-right: 40px;">
+  <p style="font-size: 16px; margin: 0;">
+    <b>Research Intern</b> | Tencent JARVIS Lab<br>
+    Oct 2020 - Feb 2021
+  </p>
+</div>
+
+<!-- <p style="margin: 30px 0;"></p> -->
 
 Professional Services
 ======
