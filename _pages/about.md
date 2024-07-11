@@ -90,19 +90,17 @@ Preprint
 
 Experiences
 ======
-<div class="column is-2" >
-                <div class="image">
-                  <img src="../images/shailab.png" width="144">
-                </div>
-              </div>
-              <div class="column">
-                <div class="content">
-                  <p>
-                    <b>Research Intern</b> | Shanghai AI Lab<br>
-                    Time: Sep 2022 - present. Advisor: <a href="https://www.mmlab-ntu.com/person/ccloy/" target="_blank"> Prof. Chen Change Loy</a> and <a href="https://li-chongyi.github.io/" target="_blank">Prof. Chongyi Li</a>
-                  </p>
-                </div>
-              </div>
+<img src="../images/shailab.png" alt="sh ai lab" width="144">
+<p style="font-size: 16px;">
+  <b>Research Intern</b> | Shanghai AI Lab<br>
+  Jun 2023 - present
+</p>
+
+<!-- <img src="../images/shailab.png" alt="sh ai lab" width="144">
+<p style="font-size: 16px;">
+  <b>Research Intern</b> | Shanghai AI Lab<br>
+  Jun 2023 - present
+</p> -->
 
 
 
