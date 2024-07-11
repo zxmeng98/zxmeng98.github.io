@@ -16,8 +16,10 @@ redirect_from:
   <a href="https://www.nus.edu.sg/" target="_blank" style="text-decoration: none;">National University of Singapore</a> 
   in 2022 and my B.Eng. degree in Information Engineering from 
   <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none;">Zhejiang University</a> 
-  in 2020.
+  in 2020.<br>
+  <b>Email</b>: meng.zhang@ntu.edu.sg
 </p>
+<p style="margin: 30px 0;"></p>
 <!-- I am currently a Ph.D. candidate under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/) at S-Lab, [College of Computing and Data Science of Nanyang Technological University](https://www.ntu.edu.sg/computing), Singapore. Before that, I received my M.Sc. degree in Electrical Engineering from [National University of Singapore](https://www.nus.edu.sg/) in 2022 and my B.Eng. degree in Information Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2020.  -->
 
 
@@ -27,6 +29,7 @@ Research Interests
 - Systems for Graph Learning
 - Machine Learning for Systems
 
+<p style="margin: 30px 0;"></p>
 
 Publications
 ======
@@ -78,6 +81,8 @@ Publications
   <a href="https://www.usenix.org/system/files/osdi23-hu.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
   <a href="https://github.com/S-Lab-System-Group/Hydro" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
+<p style="margin: -10px 0;"></p>
+
 
 Preprint
 ------
@@ -88,18 +93,20 @@ Preprint
   <a href="https://arxiv.org/abs/2303.01277" target="_blank" style="text-decoration: none;">[Paper]</a>
   <!-- <a href="https://github.com/S-Lab-System-Group/Hydro" target="_blank" style="text-decoration: none;">[Code]</a><br> -->
 </p>
+<p style="margin: 30px 0;"></p>
+
 
 Experiences
 ======
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/shailab.png" alt="sh ai lab" width="144" style="margin-right: 40px;">
   <p style="font-size: 16px; margin: 0;">
-    <b>System Research Intern</b> | Shanghai AI Lab<br>
+    <b>System Research Intern</b> | <a href="https://nds-shlab.github.io/" target="_blank" style="text-decoration: none;">NDS Group @ Shanghai AI Lab</a><br>
     Jun 2023 - present
   </p>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/Tencent.png" alt="sh ai lab" width="144" style="margin-right: 40px;">
   <p style="font-size: 16px; margin: 0;">
     <b>Research Intern</b> | Tencent JARVIS Lab<br>
@@ -107,6 +114,14 @@ Experiences
   </p>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="../images/SUTD.png" alt="sh ai lab" width="144" style="margin-right: 40px;">
+  <p style="font-size: 16px; margin: 0;">
+    <b>Research Intern</b> | Singapore University of Technology and Design<br>
+    Advisor: <a href="https://simonperrault.github.io/" target="_blank" style="text-decoration: none;">Prof. Simon Perrault</a><br>
+    Jul 2019 - Sept 2021
+  </p>
+</div>
 <!-- <p style="margin: 30px 0;"></p> -->
 
 Professional Services
@@ -115,3 +130,9 @@ Professional Services
   <b>[EuroSys 2023]</b> Shadow Committee Member<br>
   <b>[ATC 2023]</b> AE Committee Member
 </p>
+
+
+<!-- Awards
+======
+<li>Distinguished Paper Award of ASPLOS, 2023.</li>
+<li>Student Travel Grant of OSDI, 2023.</li> -->
