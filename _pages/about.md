@@ -126,7 +126,7 @@ Experiences
 
 Professional Services
 ======
-<p>
+<p style="font-size: 16px;">
   <b>[EuroSys 2023]</b> Shadow Committee Member<br>
   <b>[ATC 2023]</b> AE Committee Member
 </p>
