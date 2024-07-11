@@ -5,7 +5,7 @@
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
-      {% if s.image %}
+      <!-- {% if s.image %} -->
         <img src=
         {% if s.image contains "://" %}
           "{{ site.author.avatar }}"
@@ -13,7 +13,7 @@
           "{{ site.author.avatar }}"
         {% endif %}
         alt="{{ site.author.name }}">
-      {% endif %}
+      <!-- {% endif %} -->
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
