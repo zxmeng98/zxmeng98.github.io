@@ -8,11 +8,11 @@
       {% if s.image %}
         <img src=
         {% if s.image contains "://" %}
-          "{{ s.image }}"
+          "{{ site.author.avatar }}"
         {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+          "{{ site.author.avatar }}"
         {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        alt="{{ site.author.name }}">
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
