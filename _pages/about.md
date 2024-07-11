@@ -40,7 +40,7 @@ Publications
   <b>Meng Zhang</b><sup>*</sup>, Jie Sun<sup>*</sup>, Qinghao Hu, Peng Sun, Zeke Wang, Yonggang Wen, Tianwei Zhang<br>
   <i>Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (<b>SC</b>), 2024</i> &nbsp;<em class="blue"></em><br>
   <a href="https://sc24.conference-program.com/presentation/?id=pap224&sess=sess396" target="_blank" style="text-decoration: none;">[Paper]</a>
-  <a href="" target="_blank" style="text-decoration: none;">[Code]</a><br>
+  <a href="https://github.com/zxmeng98/torchgt" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
 
 <p style="font-size: 16px;">
@@ -48,7 +48,7 @@ Publications
   <b>Meng Zhang</b>, Qinghao Hu, Cheng Wan, Haozhao Wang, Peng Sun, Yonggang Wen, Tianwei Zhang<br>
   <i>IEEE International Conference on Data Engineering (<b>ICDE</b>), 2024</i><br>
   <a href="../files/Sylvie_ICDE24_camera_ready.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
-  <a href="" target="_blank" style="text-decoration: none;">[Code]</a><br>
+  <a href="https://github.com/zxmeng98/Sylvie" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
 
 <p style="font-size: 16px;">
