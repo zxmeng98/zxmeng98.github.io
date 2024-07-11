@@ -90,18 +90,24 @@ Preprint
 
 Experiences
 ======
-<img src="../images/shailab.png" alt="sh ai lab" width="144">
-<p style="font-size: 16px;">
-  <b>Research Intern</b> | Shanghai AI Lab<br>
-  Jun 2023 - present
-</p>
-
 <!-- <img src="../images/shailab.png" alt="sh ai lab" width="144">
 <p style="font-size: 16px;">
   <b>Research Intern</b> | Shanghai AI Lab<br>
   Jun 2023 - present
 </p> -->
 
+<div style="display: flex; align-items: center;">
+  <img src="../images/shailab.png" alt="sh ai lab" width="144" style="margin-right: 40px;">
+  <p style="font-size: 16px; margin: 0;">
+    <b>Research Intern</b> | Shanghai AI Lab<br>
+    Jun 2023 - present
+  </p>
+</div>
+<!-- <img src="../images/Tencent.png" alt="sh ai lab" width="144">
+<p style="font-size: 16px;">
+  <b>Research Intern</b> | Shanghai AI Lab<br>
+  Jun 2023 - present
+</p> -->
 
 
 Professional Services
