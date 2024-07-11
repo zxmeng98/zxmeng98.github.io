@@ -45,7 +45,7 @@ Publications
   <b>Sylvie: 3D-adaptive and Universal System for Large-scale Graph Neural Network Training</b><br>
   <b>Meng Zhang</b>, Qinghao Hu, Cheng Wan, Haozhao Wang, Peng Sun, Yonggang Wen, Tianwei Zhang<br>
   <i>IEEE International Conference on Data Engineering (<b>ICDE</b>), 2024</i><br>
-  <a href="" target="_blank" style="text-decoration: none;">[Paper]</a>
+  <a href="../files/Sylvie_ICDE24_camera_ready.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
   <a href="" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
 
