@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Zhang Meng"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -38,7 +38,7 @@ Publications
   <a href="" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
 
-<p style="font-size: small;">
+<p style="font-size: 16px;">
   <b>Sylvie: 3D-adaptive and Universal System for Large-scale Graph Neural Network Training</b><br>
   <b>Meng Zhang</b>, Qinghao Hu, Cheng Wan, Haozhao Wang, Peng Sun, Yonggang Wen, Tianwei Zhang<br>
   <i>IEEE International Conference on Data Engineering (<b>ICDE</b>), 2024</i><br>
@@ -46,7 +46,7 @@ Publications
   <a href="" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
 
-<p style="font-size: small;">
+<p style="font-size: 16px;">
   <b>Characterization of Large Language Model Development in the Datacenter</b><br>
   Qinghao Hu<sup>*</sup>, Zhisheng Ye<sup>*</sup>, Zerui Wang<sup>*</sup>, Guoteng Wang, <b>Meng Zhang</b>, Qiaoling Chen, Peng Sun, Dahua Lin, Xiaolin Wang, Yingwei Luo, Yonggang Wen, Tianwei Zhang<br>
   <i>USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), 2024</i><br>
@@ -54,7 +54,7 @@ Publications
   <!-- <a href="" target="_blank" style="text-decoration: none;">[Code]</a><br> -->
 </p>
 
-<p style="font-size: small;">
+<p style="font-size: 16px;">
   <b>FedDSE: Distribution-aware Sub-model Extraction for Federated Learning over Resource-constrained Devices</b><br>
   Haozhao Wang, Yabo Jia, <b>Meng Zhang</b>, Qinghao Hu, Hao Ren, Peng Sun, Yonggang Wen, Tianwei Zhang<br>
   <i>The Web Conference (<b>WWW</b>), 2024</i><br>
@@ -62,7 +62,7 @@ Publications
   <!-- <a href="" target="_blank" style="text-decoration: none;">[Code]</a><br> -->
 </p>
 
-<p style="font-size: small;">
+<p style="font-size: 16px;">
   <b>Lucid: A non-intrusive, scalable and interpretable scheduler for deep learning training jobs</b><br>
   Qinghao Hu<sup>*</sup>, <b>Meng Zhang</b><sup>*</sup>, Peng Sun, Yonggang Wen, and Tianwei Zhang<br>
   <i>Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS</b>), 2023</i> &nbsp;<em class="blue"><b>Distinguished Paper Award</b></em><br>
@@ -70,7 +70,7 @@ Publications
   <a href="https://github.com/S-Lab-System-Group/Lucid" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
 
-<p style="font-size: small;">
+<p style="font-size: 16px;">
   <b>Hydro: Surrogate-based Hyperparameter Tuning Service in Datacenters</b><br>
   Qinghao Hu, Zhisheng Ye, <b>Meng Zhang</b>, Qiaoling Chen, Peng Sun, Yonggang Wen, Tianwei Zhang<br>
   <i>USENIX Symposium on Operating Systems Design and Implementation (<b>OSDI</b>), 2023</i><br>
@@ -80,13 +80,30 @@ Publications
 
 Preprint
 ------
-<p style="font-size: small;">
+<p style="font-size: 16px;">
   <b>Boosting Distributed Full-graph GNN Training with Asynchronous One-bit Communication</b><br>
   <b>Meng Zhang</b>, Qinghao Hu, Peng Sun, Yonggang Wen, Tianwei Zhang<br>
   <i>arXiv, 2023</i><br>
   <a href="https://arxiv.org/abs/2303.01277" target="_blank" style="text-decoration: none;">[Paper]</a>
   <!-- <a href="https://github.com/S-Lab-System-Group/Hydro" target="_blank" style="text-decoration: none;">[Code]</a><br> -->
 </p>
+
+Experiences
+======
+<div class="column is-2" >
+                <div class="image">
+                  <img src="../images/shailab.png" width="144">
+                </div>
+              </div>
+              <div class="column">
+                <div class="content">
+                  <p>
+                    <b>Research Intern</b> | Shanghai AI Lab<br>
+                    Time: Sep 2022 - present. Advisor: <a href="https://www.mmlab-ntu.com/person/ccloy/" target="_blank"> Prof. Chen Change Loy</a> and <a href="https://li-chongyi.github.io/" target="_blank">Prof. Chongyi Li</a>
+                  </p>
+                </div>
+              </div>
+
 
 
 Professional Services
