@@ -10,8 +10,8 @@ redirect_from:
 <p>
   I am currently a Ph.D. candidate under the supervision of 
   <a href="https://personal.ntu.edu.sg/tianwei.zhang/" target="_blank" style="text-decoration: none;">Prof. Tianwei Zhang</a> 
-  at S-Lab, 
-  <a href="https://www.ntu.edu.sg/computing" target="_blank" style="text-decoration: none;">College of Computing and Data Science of Nanyang Technological University</a>, 
+  at S-Lab, College of Computing and Data Science of 
+  <a href="https://www.ntu.edu.sg/computing" target="_blank" style="text-decoration: none;">Nanyang Technological University</a>, 
   Singapore. Before that, I received my M.Sc. degree in Electrical Engineering from 
   <a href="https://www.nus.edu.sg/" target="_blank" style="text-decoration: none;">National University of Singapore</a> 
   in 2022 and my B.Eng. degree in Information Engineering from 
@@ -30,7 +30,7 @@ Research Interests
 
 Publications
 ======
-<p style="font-size: 17px;">
+<p style="font-size: 16px;">
   <b>TorchGT: A Holistic System for Large-scale Graph Transformer Training</b><br>
   <b>Meng Zhang</b><sup>*</sup>, Jie Sun<sup>*</sup>, Qinghao Hu, Peng Sun, Zeke Wang, Yonggang Wen, Tianwei Zhang<br>
   <i>Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (<b>SC</b>), 2024</i> &nbsp;<em class="blue"></em><br>
