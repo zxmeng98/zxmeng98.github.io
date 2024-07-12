@@ -83,8 +83,8 @@ Publications
   <a href="https://www.usenix.org/system/files/osdi23-hu.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
   <a href="https://github.com/S-Lab-System-Group/Hydro" target="_blank" style="text-decoration: none;">[Code]</a><br>
 </p>
-<p style="margin: -10px 0;"></p>
 
+<p style="margin: -10px 0;"></p>
 
 Preprint
 ------
@@ -95,6 +95,9 @@ Preprint
   <a href="https://arxiv.org/abs/2303.01277" target="_blank" style="text-decoration: none;">[Paper]</a>
   <!-- <a href="https://github.com/S-Lab-System-Group/Hydro" target="_blank" style="text-decoration: none;">[Code]</a><br> -->
 </p>
+
+<p style="font-size: 12px;"><sup>*</sup> denotes Equal Contribution</p>
+
 <p style="margin: 30px 0;"></p>
 
 
