@@ -133,7 +133,8 @@ Professional Services
 ======
 <p style="font-size: 16px;">
   <b>[EuroSys 2023]</b> Shadow Committee Member<br>
-  <b>[ATC 2023]</b> AE Committee Member
+  <b>[MLSys 2023]</b> AE Committee Member<br>
+  <b>[OSDI 2023]</b> Presenter & AE Committee Member
 </p>
 
 
