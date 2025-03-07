@@ -18,7 +18,7 @@ redirect_from:
   <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none;">Zhejiang University</a> 
   in 2020.<br>
   <span style="display: block; margin-top: 10px;">
-  My CV can be found <a href="../files/CV-ZM-singapore.pdf" target="_blank" style="text-decoration: none;">here</a>. 
+  <!-- My CV can be found <a href="../files/CV-ZM-singapore.pdf" target="_blank" style="text-decoration: none;">here</a>.  -->
   </span>
 </p>
 <p style="margin: 30px 0;"></p>
